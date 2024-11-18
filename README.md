@@ -18,4 +18,4 @@ Feel free to explore my GitHub repos to look at the projects I've been working o
 
 _"Everything around you that you call life was made up by people that were no smarter than you." - Steve Jobs_
 
-[![Watch the video](https://img.youtube.com/vi/kYfNvmF0Bqw/0.jpg)](https://www.youtube.com/watch?v=kYfNvmF0Bqw&ab_channel=SiliconValleyHistoricalAssociation)
+[![Watch the video](https://img.youtube.com/vi/kYfNvmF0Bqw/0.jpg)](https://youtu.be/kYfNvmF0Bqw?si=k36tII0f5eApTav1&t=7)

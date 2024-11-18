@@ -1,8 +1,8 @@
-## Hi 👋
+# Hi 👋
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/raymond-forman-87191821a/)
 
-# About Me
+## About Me
 
 Welcome to my profile! Here's where I work on my passion projects. I'm a software developer who's interested in climate action, artificial intelligence, and animation. 
 

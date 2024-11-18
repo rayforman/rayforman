@@ -17,3 +17,5 @@ Welcome to my profile! Here's where I work on my passion projects. I'm a softwar
 Feel free to explore my GitHub repos to look at the projects I've been working on. Right now I'm working on two projects: algorithmic trading for cryptocurrencies and climate model translation.
 
 _"Everything around you that you call life was made up by people that were no smarter than you." - Steve Jobs_
+
+[![Watch the video](https://img.youtube.com/vi/kYfNvmF0Bqw/0.jpg)](https://www.youtube.com/watch?v=kYfNvmF0Bqw&ab_channel=SiliconValleyHistoricalAssociation)

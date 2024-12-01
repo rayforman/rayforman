@@ -4,7 +4,7 @@
 
 ## About Me
 
-Welcome to my profile! Here's where I work on my passion projects. I'm a software developer who's interested in climate action, artificial intelligence, and animation. In my life, I want to use technology to inspire people and save the world. 
+Welcome to my profile! Here's where I work on my passion projects. I'm a software developer who's interested in fintech, climate action, artificial intelligence, and animation. In my life, I want to use technology to inspire people and save the world. 
 
 **Education:**
 | | | | |

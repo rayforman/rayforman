@@ -17,6 +17,6 @@ Welcome to my profile! Here's where I work on my passion projects. I'm a softwar
 
 Feel free to explore my GitHub repos to look at the projects I've been working on. Right now I'm working on three projects: algorithmic trading for cryptocurrencies, prompt-based spotify playlist generation, and climate model translation.
 
-_"Everything around you that you call life was made up by people that were no smarter than you." - Steve Jobs_
-
 [![Watch the video](https://img.youtube.com/vi/kYfNvmF0Bqw/0.jpg)](https://youtu.be/kYfNvmF0Bqw?si=k36tII0f5eApTav1&t=7)
+
+_"Everything around you that you call life was made up by people that were no smarter than you." - Steve Jobs_

@@ -11,7 +11,7 @@ Welcome to my profile! Here's where I work on my passion projects. I'm a softwar
 | | | | |
 |:--:|:--:|:--:|:--:|
 | <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | B.A. in Computer Science, Business Management | 2021-2025 |
-| <img width="75" src="./georgia-tech.jpg" alt="Georgia Tech"></img> | [Georgia Institute of Technology](https://www.gatech.edu/) | M.S. in Computer Science, Machine Learning (In Progress) | 2025-Present |
+| <img width="75" src="./georgia-tech.jpg" alt="Georgia Tech"></img> | [Georgia Institute of Technology](https://www.gatech.edu/) | M.S. in Computer Science, Machine Learning | 2025-Present |
 
 **Projects:** 
 
